@@ -1,0 +1,1155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="578c41e5-0c55-4e73-8460-94ed42ca930b" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/css/jquery.mCustomScrollbar.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/css/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/img/arrow-slide.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/img/bg-left-panel.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/img/bg-master.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/img/bg-menu-primary.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/img/bg-panel-header.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/img/envato.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/img/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/img/slide-toggle.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/img/tweet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/jquery-ui-1.8.23.custom.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/jquery.mCustomScrollbar.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/jquery.mousewheel.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/modernizr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/ss.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/scripts/shAutoloader.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/scripts/shBrushAS3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/scripts/shBrushAppleScript.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/scripts/shBrushBash.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/scripts/shBrushCSharp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/scripts/shBrushColdFusion.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/scripts/shBrushCpp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/scripts/shBrushCss.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/scripts/shBrushDelphi.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/scripts/shBrushDiff.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/scripts/shBrushErlang.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/scripts/shBrushGroovy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/scripts/shBrushJScript.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/scripts/shBrushJava.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/scripts/shBrushJavaFX.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/scripts/shBrushPerl.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/scripts/shBrushPhp.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/scripts/shBrushPlain.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/scripts/shBrushPowerShell.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/scripts/shBrushPython.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/scripts/shBrushRuby.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/scripts/shBrushSass.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/scripts/shBrushScala.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/scripts/shBrushSql.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/scripts/shBrushVb.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/scripts/shBrushXml.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/scripts/shCore.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/scripts/shLegacy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/styles/shCore.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/styles/shCoreDefault.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/styles/shCoreDjango.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/styles/shCoreEclipse.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/styles/shCoreEmacs.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/styles/shCoreFadeToGrey.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/styles/shCoreMDUltra.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/styles/shCoreMidnight.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/styles/shCoreRDark.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/styles/shThemeDefault.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/styles/shThemeDjango.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/styles/shThemeEclipse.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/styles/shThemeEmacs.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/styles/shThemeFadeToGrey.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/styles/shThemeMDUltra.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/styles/shThemeMidnight.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Documentation/res/js/syntax-highlighter/styles/shThemeRDark.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/PSD/Icons/16/icons_16.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/PSD/Icons/16_@2x/icons_16_@2x.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/adjust.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/align-center.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/align-justify.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/align-left.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/align-right.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/arrow-light-down.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/arrow-light-left.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/arrow-light-right.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/arrow-light-round-down-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/arrow-light-round-down.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/arrow-light-round-left-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/arrow-light-round-left.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/arrow-light-round-right-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/arrow-light-round-right.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/arrow-light-round-up-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/arrow-light-round-up.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/arrow-light-up.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/arrow-round-down-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/arrow-round-down.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/arrow-round-left-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/arrow-round-left.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/arrow-round-right-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/arrow-round-right.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/arrow-round-up-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/arrow-round-up.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/arrow-simple-down-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/arrow-simple-down.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/arrow-simple-left-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/arrow-simple-left.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/arrow-simple-right-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/arrow-simple-right.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/arrow-simple-up-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/arrow-simple-up.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/asterisk.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/backward.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/ban-chart-2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/ban-chart.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/ban-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/barcode.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/beaker.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/bell.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/blockquote.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/bold.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/bolt.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/book.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/bookmark.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/briefcase.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/bullhorn.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/calendar.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/camera.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/certificate.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/check-empty.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/check.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/cloud.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/cog.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/cogs.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/columns-2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/columns.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/comment-line.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/comment.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/comments-line.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/comments.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/copy.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/credit-card.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/dashboard.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/download.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/download_2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/edit-check.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/edit.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/eject.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/email.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/email_2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/exclamation.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/expand-horizontal.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/expand-vertical.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/expand-view-2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/expand-view-3.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/expand-view.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/eye.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/eye_disable.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/facetime.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/fast-backward.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/fast-forward.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/file-empty.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/file.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/film.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/fire.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/flag.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/folder-close.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/folder-open.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/font.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/forward.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/gift.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/glass.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/glass_2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/globe_line.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/grid-large.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/grid.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/group.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/hdd.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/headphones-2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/headphones-line-2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/headphones-line.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/headphones.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/heart-line.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/heart.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/home.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/inbox-empty.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/inbox.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/indent-left.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/indent-right.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/info.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/italic.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/key.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/layer.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/link.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/list-2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/list-3.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/list.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/lock.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/magic.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/magnet.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/map-marker-2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/map-marker.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/map.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/minus-sign.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/minus.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/money.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/move.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/music.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/ok-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/ok-sign.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/ok.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/paper-clip.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/paste.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/pause.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/phone-boxed.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/phone-sign.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/phone.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/picture.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/play.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/plus-sign.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/plus.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/print.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/pushpin-2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/pushpin.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/question-sign.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/random.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/read-more.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/remove-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/remove-sign.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/remove.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/reorder.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/repeat.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/resize-full.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/resize-fullscreen.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/resize-horizontal-2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/resize-horizontal.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/resize-small.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/resize-vertical-2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/resize-vertical.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/retweet.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/road.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/rss.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/search.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/shopping-cart.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/signal.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/signin.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/signout.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/sitemap.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-500px.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-addthis.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-bebo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-behance.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-blogger.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-deviant-art.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-digg.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-dribbble.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-email.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-envato.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-evernote.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-facebook.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-flickr.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-forrst.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-github.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-google-plus.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-grooveshark.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-last-fm.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-linkedin.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-myspace.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-paypal.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-photobucket.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-pinterest.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-quora.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-share-this.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-skype.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-soundcloud.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-stumbleupon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-tumblr.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-twitter.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-viddler.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-vimeo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-virb.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-wordpress.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-yahoo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-yelp.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-youtube.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/social-zerply.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/sort-down.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/sort-up.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/sort.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/star-half.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/star-line.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/star.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/stars.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/step-backward.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/step-forward.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/stop.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/strikethrough.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/table.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/tag.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/tags.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/text-height.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/text-width.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/text.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/time.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/tint.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/underline.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/unlock.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/upload-2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/upload.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/user-border.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/user.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/viewport.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/volume-down.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/volume-off.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/volume-up.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/warning.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/waves.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/wrench.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/zoom-in.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Icons/SVG/zoom-out.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Reference Font Icons/fonts/Icons.dev.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Reference Font Icons/fonts/Icons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Reference Font Icons/fonts/Icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Reference Font Icons/fonts/Icons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Reference Font Icons/fonts/Icons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Reference Font Icons/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Reference Font Icons/lte-ie7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/ICONS + FONT/Reference Font Icons/style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Source Files/PSD Template/brushed.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/css/bootstrap-responsive.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/css/bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/css/fancybox/blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/css/fancybox/fancybox_loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/css/fancybox/fancybox_overlay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/css/fancybox/fancybox_sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/css/fancybox/jquery.fancybox.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/css/fonts.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/css/fonts/Icons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/css/fonts/Icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/css/fonts/Icons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/css/fonts/Icons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/css/main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/css/responsive.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/css/shortcodes.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/css/supersized.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/css/supersized.shutter.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/filter-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/filter-icon_@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/logo_@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/menu-mobile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/menu-mobile_@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/profile/profile-01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/profile/profile-02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/profile/profile-03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/slider-images/image01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/slider-images/image02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/slider-images/image03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/slider-images/image04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/supersized/back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/supersized/bg-black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/supersized/bg-hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/supersized/button-tray-down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/supersized/button-tray-up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/supersized/forward.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/supersized/nav-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/supersized/nav-dot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/supersized/pause.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/supersized/play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/supersized/progress-back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/supersized/progress-bar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/supersized/progress.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/supersized/supersized-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/supersized/thumb-back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/supersized/thumb-forward.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/work/full/image-01-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/work/full/image-02-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/work/full/image-03-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/work/full/image-04-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/work/full/image-05-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/work/full/image-06-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/work/full/image-07-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/work/thumbs/image-01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/work/thumbs/image-02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/work/thumbs/image-03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/work/thumbs/image-04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/work/thumbs/image-05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/work/thumbs/image-06.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/work/thumbs/image-07.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/work/thumbs/image-08.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/img/work/thumbs/image-09.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/js/bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/js/jquery.fancybox-media.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/js/jquery.fancybox.pack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/js/jquery.isotope.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/js/jquery.tweet.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/js/modernizr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/js/placeholder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/js/plugins.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/js/supersized.3.2.7.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/js/twitter/index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/js/twitter/lib/tmhOAuth.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/js/twitter/lib/tmhUtilities.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/js/waypoints-sticky.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/js/waypoints.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/_include/php/contact.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Brushed/Template/brushed/shortcodes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/._License.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Documentation/._index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Documentation/res/img/._bg-panel-header.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Documentation/res/img/._logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/._ICONS + FONT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/PSD/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/PSD/Icons/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/PSD/Icons/16/._icons_16.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/PSD/Icons/16_@2x/._icons_16_@2x.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._adjust.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._align-center.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._align-justify.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._align-left.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._align-right.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._arrow-light-down.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._arrow-light-left.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._arrow-light-right.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._arrow-light-round-down-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._arrow-light-round-down.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._arrow-light-round-left-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._arrow-light-round-left.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._arrow-light-round-right-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._arrow-light-round-right.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._arrow-light-round-up-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._arrow-light-round-up.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._arrow-light-up.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._arrow-round-down-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._arrow-round-down.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._arrow-round-left-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._arrow-round-left.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._arrow-round-right-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._arrow-round-right.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._arrow-round-up-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._arrow-round-up.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._arrow-simple-down-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._arrow-simple-down.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._arrow-simple-left-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._arrow-simple-left.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._arrow-simple-right-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._arrow-simple-right.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._arrow-simple-up-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._arrow-simple-up.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._asterisk.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._backward.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._ban-chart-2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._ban-chart.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._ban-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._barcode.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._beaker.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._bell.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._blockquote.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._bold.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._bolt.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._book.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._bookmark.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._briefcase.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._bullhorn.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._calendar.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._camera.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._certificate.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._check-empty.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._check.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._cloud.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._cog.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._cogs.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._columns-2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._columns.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._comment-line.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._comment.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._comments-line.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._comments.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._copy.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._credit-card.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._dashboard.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._download.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._download_2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._edit-check.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._edit.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._eject.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._email.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._email_2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._exclamation.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._expand-horizontal.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._expand-vertical.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._expand-view-2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._expand-view-3.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._expand-view.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._eye.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._eye_disable.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._facetime.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._fast-backward.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._fast-forward.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._file-empty.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._file.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._film.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._fire.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._flag.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._folder-close.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._folder-open.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._font.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._forward.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._gift.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._glass.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._glass_2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._globe_line.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._grid-large.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._grid.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._group.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._hdd.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._headphones-2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._headphones-line-2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._headphones-line.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._headphones.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._heart-line.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._heart.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._home.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._inbox-empty.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._inbox.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._indent-left.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._indent-right.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._info.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._italic.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._key.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._layer.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._link.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._list-2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._list-3.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._list.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._lock.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._magic.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._magnet.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._map-marker-2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._map-marker.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._map.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._minus-sign.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._minus.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._money.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._move.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._music.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._ok-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._ok-sign.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._ok.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._paper-clip.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._paste.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._pause.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._phone-boxed.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._phone-sign.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._phone.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._picture.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._play.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._plus-sign.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._plus.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._print.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._pushpin-2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._pushpin.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._question-sign.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._random.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._read-more.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._remove-circle.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._remove-sign.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._remove.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._reorder.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._repeat.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._resize-full.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._resize-fullscreen.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._resize-horizontal-2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._resize-horizontal.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._resize-small.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._resize-vertical-2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._resize-vertical.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._retweet.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._road.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._rss.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._search.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._shopping-cart.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._signal.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._signin.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._signout.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._sitemap.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-500px.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-addthis.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-bebo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-behance.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-blogger.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-deviant-art.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-digg.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-dribbble.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-email.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-envato.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-evernote.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-facebook.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-flickr.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-forrst.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-github.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-google-plus.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-grooveshark.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-last-fm.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-linkedin.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-myspace.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-paypal.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-photobucket.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-pinterest.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-quora.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-share-this.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-skype.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-soundcloud.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-stumbleupon.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-tumblr.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-twitter.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-viddler.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-vimeo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-virb.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-wordpress.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-yahoo.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-yelp.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-youtube.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._social-zerply.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._sort-down.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._sort-up.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._sort.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._star-half.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._star-line.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._star.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._stars.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._step-backward.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._step-forward.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._stop.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._strikethrough.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._table.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._tag.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._tags.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._text-height.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._text-width.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._text.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._time.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._tint.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._underline.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._unlock.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._upload-2.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._upload.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._user-border.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._user.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._viewport.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._volume-down.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._volume-off.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._volume-up.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._warning.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._waves.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._wrench.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._zoom-in.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Icons/SVG/._zoom-out.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Reference Font Icons/._fonts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Reference Font Icons/._index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Reference Font Icons/._lte-ie7.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Reference Font Icons/._style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Reference Font Icons/fonts/._Icons.dev.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Reference Font Icons/fonts/._Icons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Reference Font Icons/fonts/._Icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Reference Font Icons/fonts/._Icons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/ICONS + FONT/Reference Font Icons/fonts/._Icons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Source Files/PSD Template/._brushed.psd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/._index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/._shortcodes.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/css/._bootstrap-responsive.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/css/._bootstrap.min.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/css/._main.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/css/._responsive.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/css/._shortcodes.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/css/._supersized.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/css/._supersized.shutter.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/css/fancybox/._blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/css/fancybox/._fancybox_loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/css/fancybox/._fancybox_overlay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/css/fancybox/._fancybox_sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/css/fancybox/._jquery.fancybox.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/css/fonts/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/css/fonts/._Icons.eot" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/css/fonts/._Icons.svg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/css/fonts/._Icons.ttf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/css/fonts/._Icons.woff" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/._filter-icon.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/._filter-icon_@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/._logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/._logo_@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/._menu-mobile.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/._menu-mobile_@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/profile/._profile-01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/profile/._profile-02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/profile/._profile-03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/slider-images/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/slider-images/._image01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/slider-images/._image02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/slider-images/._image03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/slider-images/._image04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/supersized/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/supersized/._back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/supersized/._bg-black.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/supersized/._bg-hover.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/supersized/._button-tray-down.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/supersized/._button-tray-up.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/supersized/._forward.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/supersized/._nav-bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/supersized/._nav-dot.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/supersized/._pause.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/supersized/._play.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/supersized/._progress-back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/supersized/._progress-bar.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/supersized/._progress.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/supersized/._supersized-logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/supersized/._thumb-back.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/supersized/._thumb-forward.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/work/full/._image-01-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/work/full/._image-02-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/work/full/._image-03-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/work/full/._image-04-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/work/full/._image-05-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/work/full/._image-06-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/work/full/._image-07-full.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/work/thumbs/._image-01.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/work/thumbs/._image-02.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/work/thumbs/._image-03.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/work/thumbs/._image-04.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/work/thumbs/._image-05.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/work/thumbs/._image-06.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/work/thumbs/._image-07.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/work/thumbs/._image-08.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/img/work/thumbs/._image-09.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/js/._.DS_Store" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/js/._bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/js/._jquery.fancybox-media.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/js/._jquery.fancybox.pack.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/js/._jquery.isotope.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/js/._jquery.tweet.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/js/._main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/js/._modernizr.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/js/._placeholder.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/js/._plugins.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/js/._supersized.3.2.7.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/js/._twitter" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/js/._waypoints-sticky.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/js/._waypoints.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/js/twitter/._index.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/js/twitter/._lib" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/js/twitter/lib/._tmhOAuth.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/js/twitter/lib/._tmhUtilities.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/__MACOSX/Brushed/Template/brushed/_include/php/._.DS_Store" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="UFCON" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/custom.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="landing-page.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/landing-page.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>navbar-brand topnav</find>
+      <find>landing-page</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/custom.css" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1509" />
+    <option name="height" value="611" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers ProjectPane="true" />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="578c41e5-0c55-4e73-8460-94ed42ca930b" name="Default" comment="" />
+      <created>1502523874119</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1502523874119</updated>
+      <workItem from="1502523880807" duration="723000" />
+      <workItem from="1502524904832" duration="1099000" />
+      <workItem from="1502526461323" duration="1923000" />
+      <workItem from="1502528454578" duration="514000" />
+      <workItem from="1502530584992" duration="91000" />
+      <workItem from="1502531198744" duration="2033000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6383000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1425" sideWeight="0.4939394" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="SLIDING" type="WINDOWED" visible="false" show_stripe_button="true" weight="0.24957699" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" x="820" y="100" width="295" height="660" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18274112" sideWeight="0.5060606" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="V0.2 change bootstrap templet" />
+    <option name="LAST_COMMIT_MESSAGE" value="V0.2 change bootstrap templet" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/landing-page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
