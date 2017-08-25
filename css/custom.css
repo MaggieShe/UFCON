@@ -15,7 +15,10 @@
 .intro-text h3{
     font-weight:100;
 }
-
+.navbar-brand img {
+    max-width: 30%;
+    margin-left:10%;
+}
 /**************************************
     body custom
 ***************************************/
@@ -42,6 +45,12 @@
     background-color: #fff;
 }
 
+hr {
+    border-color: #F05F40;
+    border-width: 3px;
+    max-width: 50px;
+    padding-bottom: 1.5em;
+}
 
 .banner {
     padding: 100px 0;
@@ -236,4 +245,68 @@
 
 .row-pb-md{
     padding-top: 1em!important;
+}
+
+
+
+/**************************************
+    mobile
+***************************************/
+
+
+@media (min-width: 1200px) {
+    .modal-content .container .row img{
+        margin: auto;
+    }
+}
+
+
+@media (max-width: 1200px) {
+
+    .video {
+        width: 640px;
+        height: 360px;
+        margin:auto;
+    }
+}
+
+@media (max-width: 925px) {
+
+    .video {
+        width: 500px;
+        height: 282px;
+        margin:auto;
+    }
+}
+
+@media (max-width: 736px) {
+    .video {
+        width: 450px;
+        height: 254px;
+        margin:auto;
+    }
+
+    .navbar-brand img {
+        float:right;
+    }
+}
+
+@media (max-width: 568px) {
+    .video {
+        width: 360px;
+        height: 202px;
+        margin:auto;
+    }
+
+}
+
+@media (max-width: 567px) {
+    .video {
+        display: none;
+    }
+
+    .video-container p{
+        display: inline-block;
+    }
+
 }
